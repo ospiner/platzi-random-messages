@@ -14,7 +14,15 @@
   "author": "Oscar Pineros <developer@0spiner.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ospiner/platzi-random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ospiner/platzi-random-messages/issues"
+  },
+  "homepage": "https://github.com/ospiner/platzi-random-messages#readme"
 }
